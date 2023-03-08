@@ -43,4 +43,4 @@ Programming Skills
 
 Technical Skills 
 ---
-* **Tools:** VS Code, Android studio, IntelliJ, Eclipse, MS Office, Excel, Oracle
+* **Tools:** VS Code, Android studio, IntelliJ, Eclipse, MS Office, Excel
