@@ -25,5 +25,5 @@ Instructions
     8. Verify your account by solving a puzzle.
     9. Click on create account.
     10. Enter the verification code that is sent to your email.
-    11. Click on continue and you will see your dashboard.
+    11. Click on continue and you will see your dashboard
 
