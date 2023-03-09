@@ -4,4 +4,4 @@ How to host a resume on GitHub
 
 Purpose
 ---
-This README file demonstrates the steps required to host and format an online resume in the *GitHub* repository. These steps consist of a light markup language, a text editor, and a static site generator. We will be using *Markdown*, *Atom*, and *Jekyll*. It also shows how to host on a DVCS (Distributed Version Control System), *GitHub*.
+In this README file, you will find a guide on how to create and format an online resume using *GitHub*. The process involves using a few tools, including a markup language called Markdown, a text editor such as Visual Studio, and a static site generator called Jekyll. Additionally, this guide includes steps on how to host your online resume on GitHub, which is a Distributed Version Control System (DVCS). With these tools and steps, you will be able to create a professional-looking online resume that is easily accessible to potential employers.
