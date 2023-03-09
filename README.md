@@ -33,4 +33,15 @@ Instructions
     4. Make your repository public by selecting the public option.
     5. Scroll down to uncheck add a README file for now.
     6. Scroll down to choose a licence.
+    7. 7. Click on create repository.![Create Respotory](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/CreateRes.png)
+
+3. **Add your files to your repository.**
+    1. Click on add a file.![Add file](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Upload%20file.png)
+    2. Drop your markdown-formatted resume and a README, if you have one, on the drop box.
+    3. Add a title in the commit box.
+    4. Click on commit changes button.
+> Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient. It is commonly used by developers.
+
+4. **Create a static website using Jekyll theme.**
+    1. Click on settings.![Settings](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Settings.png)
 
