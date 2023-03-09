@@ -1,4 +1,3 @@
-# Rafia0388.github.io
 How to host a resume on GitHub
 ===
 
@@ -25,5 +24,7 @@ Instructions
     8. Verify your account by solving a puzzle.
     9. Click on create account.
     10. Enter the verification code that is sent to your email.
-    11. Click on continue and you will see your dashboard
+    11. Click on continue and you will see your dashboard.
+2. **Create a repository on GitHub.**
+    1. Click on the "*+*" sign to the left of the profile logo on the top right corner.![Respritory](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/NewRes.png)
 
