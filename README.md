@@ -58,3 +58,5 @@ Instructions
     13. Type https://username.github.io/ (your user name) to see the static website in *Website* section.![link](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Website.png)
     14. Click *Save Changes*
 > This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see a cleaner static webiste from your markdown contents. He also stated that moving the entire website is simple too as it does not depend on any third party application or database.
+
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxNjRlZTE3ZGE5NjQ5NmY0Mjg3YjM1MGJkNTc0YzExNDk2MjcxOSZjdD1n/9JGpK1nSceWLDzEVod/giphy.gif)
