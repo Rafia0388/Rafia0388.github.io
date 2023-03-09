@@ -22,11 +22,11 @@ Project Experience
 #### Wedsite Building 
  * Website of food delivery app: Created a responsive design for food delivering app which was used by the customers to order and track food. The user interface was developed using Django framework along with Python and C. The design is responsive and used Figma for PC and Mobile website versions.
 
- #### Games 
+#### Games 
  * **Chess Application :** Developed a chess game for 2 players to play online using Java. Animated visual will be created for future development and trying to attempt the Unix to it.
  * **Calculator :** Developed and implemented a set of scripts in Java language to simplify the calculation of interest in student loans. The script emulates a physical calculator and accepts user input, executing the logic behind student loan payments.
 
- #### Database
+#### Database
  * **Destiny2 :** Worked with a team of three to create a web app for Destiny2 game that was made with simple UI and NodeJS framework with SQL.Here we debugged the source code as well with team collaboration
 
 Voulunteer Experience
