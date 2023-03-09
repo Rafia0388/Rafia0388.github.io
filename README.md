@@ -54,3 +54,6 @@ Instructions
     9. Click on commit changes button.
     10. Go to your repository.
     11. Select the _config.yml file and *add title: Resume* to change the title.
+    12. Create your static website in *About* Setting section. ![Setting](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Settings.png)
+    13. Type https://username.github.io/ (your user name) to see the static website in *Website* section.![link](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Website.png)
+    14. Click *Save Changes*
