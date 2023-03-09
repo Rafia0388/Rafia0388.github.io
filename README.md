@@ -12,3 +12,18 @@ To create your resume, you should use a formatting language called *Markdown*. *
 
 You will also need a *GitHub* account to host your static site. GitHub is a distributed version control system that allows you to store and manage your code and documents online. By using *GitHub*, you can share your work with others and collaborate with them in real-time.
 
+Instructions
+---
+1. **Create a GitHub account.**
+    1. Click on Sign up button if you do not have an account.
+    2. Enter your email.
+    3. Click on continue.
+    4. Create a password.
+    5. Click on continue.
+    6. Enter your user name.
+    7. Click on continue.
+    8. Verify your account by solving a puzzle.
+    9. Click on create account.
+    10. Enter the verification code that is sent to your email.
+    11. Click on continue and you will see your dashboard.
+
