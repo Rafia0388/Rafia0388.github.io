@@ -48,4 +48,9 @@ Instructions
     3. Click on source to set the branch to main.![main](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Main.png)
     4. Click on save option.
     5. Click on choose a theme which will navigate to a page having a wide range of themes. 
-
+    6. Choose your desired theme for your resume.
+    7. Click on select theme. 
+    8. Add a title in the commit box.
+    9. Click on commit changes button.
+    10. Go to your repository.
+    11. Select the _config.yml file and *add title: Resume* to change the title.
