@@ -23,8 +23,14 @@ Instructions
     7. Click on continue.
     8. Verify your account by solving a puzzle.
     9. Click on create account.
-    10. Enter the verification code that is sent to your email.
-    11. Click on continue and you will see your dashboard.
+   10. Enter the verification code that is sent to your email.
+   11. Click on continue and you will see your dashboard.
 2. **Create a repository on GitHub.**
     1. Click on the "*+*" sign to the left of the profile logo on the top right corner.![Respritory](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/NewRes.png)
+    2. Click on new repository.
+    3. Name the repository as your username.github.io.
+        > :warning: Verify that the user name is the same as your GitHub user name to work. In the picture below, put the username of username.github.io with your GitHub user name. I already have a repository with my username. Makesure about that.
+    4. Make your repository public by selecting the public option.
+    5. Scroll down to uncheck add a README file for now.
+    6. Scroll down to choose a licence.
 
