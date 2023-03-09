@@ -61,3 +61,22 @@ Instructions
 
 **Your final resume should look like this website.**\
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxNjRlZTE3ZGE5NjQ5NmY0Mjg3YjM1MGJkNTc0YzExNDk2MjcxOSZjdD1n/9JGpK1nSceWLDzEVod/giphy.gif)
+
+More resources
+---
+* [Markdown Tutorial](https://www.markdownguide.org/getting-started/)
+* [Modern technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Dinky Jekyll Theme](https://pages-themes.github.io/dinky/)
+* [Visual studio](https://code.visualstudio.com/docs/languages/markdown)
+
+Authors and Acknowledgments
+---
+* Etter, Andrew. [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), 2016.
+
+
+FAQs
+---
+1. Why is Markdown better than a word processor?
+> Markdown is free to use. It has a cleaner syntax and is simply making developers interested in contributing. It can always stay up-to-date by syncing. Moreover, it allows the separation of content and style, of HTML and CSS.
+2. Why is my resume not showing up?
+> GitHub pages, sometimes, take time to generate. You might verify if the username or the link provided are correct and check again for the published site after some time. Refresh the page to see the updates.
