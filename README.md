@@ -44,4 +44,8 @@ Instructions
 
 4. **Create a static website using Jekyll theme.**
     1. Click on settings.![Settings](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Settings.png)
+    2. Go to pages.![pages](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Pages.png)
+    3. Click on source to set the branch to main.
+    4. Click on save option.
+    5. Click on choose a theme which will navigate to a page having a wide range of themes. 
 
