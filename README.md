@@ -59,5 +59,5 @@ Instructions
     14. Click *Save Changes*
 > This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see a cleaner static webiste from your markdown contents. He also stated that moving the entire website is simple too as it does not depend on any third party application or database.
 
-**Your final resume should look like this website.**
+**Your final resume should look like this website.**\
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxNjRlZTE3ZGE5NjQ5NmY0Mjg3YjM1MGJkNTc0YzExNDk2MjcxOSZjdD1n/9JGpK1nSceWLDzEVod/giphy.gif)
