@@ -9,38 +9,40 @@ Prerequisites
 ---
 To create your resume, you should use a formatting language called *Markdown*. *Markdown* is easy to learn and widely used for documenting text. Andrew Etter, in his book, explains that *Markdown* has clean syntax and makes it convenient for others to contribute to your document. There are many text editors available for creating *Markdown* documents, but *Visual Studio* is a great option because it has a live preview feature that makes editing easier.
 
-You will also need a *GitHub* account to host your static site. GitHub is a distributed version control system that allows you to store and manage your code and documents online. By using *GitHub*, you can share your work with others and collaborate with them in real-time.
+You will also need a *GitHub* account to host your static site. *GitHub* is a distributed version control system that allows you to store and manage your code and documents online. By using *GitHub*, you can share your work with others and collaborate with them in real-time.
 
 Instructions
 ---
 1. **Create a GitHub account.**
-    1. Click on Sign up button if you do not have an account.
-    2. Enter your email.
-    3. Click on continue.
-    4. Create a password.
-    5. Click on continue.
-    6. Enter your user name.
-    7. Click on continue.
-    8. Verify your account by solving a puzzle.
-    9. Click on create account.
-   10. Enter the verification code that is sent to your email.
-   11. Click on continue and you will see your dashboard.
-2. **Create a repository on GitHub.**
+    1.Go to [Github](https://github.com/)
+    2. Click on Sign up button if you do not have an account.
+    3. Enter your email.
+    4. Click on continue.
+    5. Create a password.
+    6. Click on continue.
+    7. Enter your user name.
+    8. Click on continue.
+    9. Verify your account by solving a puzzle.
+    10. Click on create account.
+    11. Enter the verification code that is sent to your email.
+    12. Click on continue and you will see your dashboard.
+2. **Create a new repository on GitHub.**
     1. Click on the "*+*" sign to the left of the profile logo on the top right corner.![Respritory](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/NewRes.png)
     2. Click on new repository.
     3. Name the repository as your username.github.io.
-        > :warning: Verify that the user name is the same as your GitHub user name to work. In the picture below, put the username of username.github.io with your GitHub user name. I already have a repository with my username. Makesure about that.
-    4. Make your repository public by selecting the public option.
+        > :warning: Ensure that your username for username.github.io matches your GitHub username. Additionally, verify that you have created a repository with your GitHub username to ensure proper operation. Please confirm that both of these conditions are met to avoid any potential issues..![Username](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/username.png)
+    4. Make your repository public by selecting the public option.![public](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Public.png)
     5. Scroll down to uncheck add a README file for now.
     6. Scroll down to choose a licence.
     7. 7. Click on create repository.![Create Respotory](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/CreateRes.png)
 
-3. **Add your files to your repository.**
+3. **Add files to repository.**
     1. Click on add a file.![Add file](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Upload%20file.png)
     2. Drop your markdown-formatted resume and a README, if you have one, on the drop box.
     3. Add a title in the commit box.
     4. Click on commit changes button.
-> Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient. It is commonly used by developers.
+> According to Andrew Etter's book Modern Technical Writing, using Markdown language has several benefits. Markdown allows for easy syncing with the latest version of your work, and it supports multiple version control, making it simple to update and format your resume. Markdown also facilitates contribution, and it is widely used by developers in technical writing.
+
 
 4. **Create a static website using Jekyll theme.**
     1. Click on settings.![Settings](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Settings.png)
@@ -50,24 +52,23 @@ Instructions
     5. Click on choose a theme which will navigate to a page having a wide range of themes. 
     6. Choose your desired theme for your resume.
     7. Click on select theme. 
-    8. Add a title in the commit box.
-    9. Click on commit changes button.
-    10. Go to your repository.
-    11. Select the _config.yml file and *add title: Resume* to change the title.
+    8. Click on commit changes button.
+    9. Go to your repository.
+    10. Select the _config.yml file and *add title: Resume* to change the title.
     12. Create your static website in *About* Setting section. ![Setting](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Settings.png)
     13. Type https://username.github.io/ (your user name) to see the static website in *Website* section.![link](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Website.png)
-    14. Click *Save Changes*
-> This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see a cleaner static webiste from your markdown contents. He also stated that moving the entire website is simple too as it does not depend on any third party application or database.
+    14. Click on *Save Changes*
+> As per Andrew Etter's book, using Jekyll as a static site generator can help you create a static website. Jekyll can make your Markdown content on the website look visually appealing, resulting in a cleaner presentation of your content.Additionally, he mentioned that moving the entire website is effortless as it doesn't depend on any third-party application or database, making it easy to relocate.
 
 **Your final resume should look like this website.**\
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxNjRlZTE3ZGE5NjQ5NmY0Mjg3YjM1MGJkNTc0YzExNDk2MjcxOSZjdD1n/9JGpK1nSceWLDzEVod/giphy.gif)
 
 More resources
 ---
-* [Markdown Tutorial](https://www.markdownguide.org/getting-started/)
 * [Modern technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-* [Dinky Jekyll Theme](https://pages-themes.github.io/dinky/)
+* [Markdown Tutorial](https://www.markdownguide.org/basic-syntax/)
 * [Visual studio](https://code.visualstudio.com/docs/languages/markdown)
+* [Dinky Jekyll Theme](https://pages-themes.github.io/dinky/)
 
 Authors and Acknowledgments
 ---
@@ -77,6 +78,6 @@ Authors and Acknowledgments
 FAQs
 ---
 1. Why is Markdown better than a word processor?
-> Markdown is free to use. It has a cleaner syntax and is simply making developers interested in contributing. It can always stay up-to-date by syncing. Moreover, it allows the separation of content and style, of HTML and CSS.
+> Markdown is a plain text format that is simpler to learn and use than word processing software. It has simple and easy-to-remember syntax. Markdown generates code that is cleaner and easier to read than code generated by a word processor. It is more adaptable and can be converted to various file formats without losing formatting. Markdown is more efficient because it can be written quickly and easily with any text editor and does not require specialised software. 
 2. Why is my resume not showing up?
-> GitHub pages, sometimes, take time to generate. You might verify if the username or the link provided are correct and check again for the published site after some time. Refresh the page to see the updates.
+> Your resume may not appear on Github pages for a variety of reasons, including an incorrect file name, repository location, branch, or file path.Check that these elements are correct and meet the requirements of Github pages for displaying your resume.You can ensure that your resume appears on Github pages by identifying and addressing these issues.
