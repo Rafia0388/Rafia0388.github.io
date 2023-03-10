@@ -14,7 +14,7 @@ You will also need a *GitHub* account to host your static site. *GitHub* is a di
 Instructions
 ---
 1. **Create a GitHub account.**
-    1. Go to [Github](https://github.com/)
+    1. Go to [Github](https://github.com/).
     2. Click on Sign up button if you do not have an account.
     3. Enter your email.
     4. Click on continue.
