@@ -34,7 +34,7 @@ Instructions
     4. Make your repository public by selecting the public option.![public](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Public.png)
     5. Scroll down to uncheck add a README file for now.
     6. Scroll down to choose a licence.
-    7. 7. Click on create repository.![Create Respotory](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/CreateRes.png)
+    7. Click on create repository.![Create Respotory](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/CreateRes.png)
 
 3. **Add files to repository.**
     1. Click on add a file.![Add file](https://github.com/Rafia0388/Rafia0388.github.io/blob/main/Images/Upload%20file.png)
