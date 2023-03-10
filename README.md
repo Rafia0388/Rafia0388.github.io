@@ -68,7 +68,7 @@ More resources
 * [Modern technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 * [Markdown Tutorial](https://www.markdownguide.org/basic-syntax/)
 * [Visual studio](https://code.visualstudio.com/docs/languages/markdown)
-* [Dinky Jekyll Theme](https://pages-themes.github.io/dinky/)
+* [Minimal Jekyll Theme](https://pages-themes.github.io/minimal/)
 
 Authors and Acknowledgments
 ---
