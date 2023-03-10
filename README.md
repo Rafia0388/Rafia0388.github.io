@@ -72,7 +72,9 @@ More resources
 
 Authors and Acknowledgments
 ---
+* Rafia Rafa Islam provided README.md
 * Etter, Andrew. [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), 2016.
+
 
 
 FAQs
