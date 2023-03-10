@@ -61,7 +61,7 @@ Instructions
 > As per Andrew Etter's book, using Jekyll as a static site generator can help you create a static website. Jekyll can make your Markdown content on the website look visually appealing, resulting in a cleaner presentation of your content.Additionally, he mentioned that moving the entire website is effortless as it doesn't depend on any third-party application or database, making it easy to relocate.
 
 **Your final resume should look like this website.**\
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxNjRlZTE3ZGE5NjQ5NmY0Mjg3YjM1MGJkNTc0YzExNDk2MjcxOSZjdD1n/9JGpK1nSceWLDzEVod/giphy.gif)
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ4YTNmYTc5MDZiNTM3Y2I1YjVlNzdlOTU0NjY4NWQxMDVlZmQyZSZjdD1n/EspUgeBW8NKVsS9kIT/giphy.gif)
 
 More resources
 ---
